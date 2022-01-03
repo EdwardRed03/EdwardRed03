@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwardRed03
-- 👀 I’m interested in Comer
+- 👀 I’m interested in Café
 - 🌱 I’m currently learning Python
 - 📫 How to reach me eduardorojas234@gmail.com  
 
